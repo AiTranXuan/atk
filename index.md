@@ -1,3 +1,7 @@
+---
+title: "Hướng dẫn hỗ trợ sự kiện MC-FEST"
+layout: default
+---
 # 🛠 Hướng Dẫn Hỗ Trợ Sự Kiện MC-FEST
 
 ## 📚 Mục lục
