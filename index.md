@@ -1,9 +1,9 @@
 ---
-title: "Hướng dẫn hỗ trợ sự kiện MC-FEST"
+title: "Hướng dẫn hỗ trợ sự kiện IRC Tire Motobike Care Festival"
 layout: default
 ---
 
-# 🛠 Hướng Dẫn Hỗ Trợ Sự Kiện MC-FEST
+# 🛠 Hướng Dẫn Hỗ Trợ Sự Kiện IRC Tire Motobike Care Festival
 
 ## 📚 Mục lục
 1. [🔧 Hướng dẫn kiểm tra xe](#-hướng-dẫn-kiểm-tra-xe)
@@ -17,7 +17,7 @@ layout: default
 
 ### 📍 1. Đối với các bạn đứng ở khu vực **Checkin đón khách**:
 - Yêu cầu khách **quét mã QR** đường link đăng ký kiểm tra xe để nhập thông tin nếu khách **chưa đăng ký**.
-- Nếu không quá đông, khách không tự làm được thì **hỗ trợ khách hàng đăng ký**.
+- Nếu không quá đông, khách không tự làm được thì **hỗ trợ khách hàng đăng ký**  [https://mc-fest.com/motor-check-register](https://mc-fest.com/motor-check-register)
 - ⚠️ **Lưu ý:** *Bắt buộc phải truy cập link và đăng ký thành công mới được tiếp tục bước tiếp theo.*
 
 ### 🔍 2. Đối với các bạn hỗ trợ **Kiểm tra xe**:
@@ -27,8 +27,7 @@ layout: default
 **Bước 3:** Nhập liệu thông tin kiểm tra  
 → Nhấn nút **"Hoàn thành"** ở dưới cùng (chỉ xuất hiện nếu khách chưa được kiểm tra).
 
-📽 **Video hướng dẫn:**  
-[https://drive.google.com/file/d/1CLtI5cVyNIaU3ksg3YsOGtQ2gIL4qdAZ/view](https://drive.google.com/file/d/1CLtI5cVyNIaU3ksg3YsOGtQ2gIL4qdAZ/view)
+[>>📽Video hướng dẫn<<](https://drive.google.com/file/d/1CLtI5cVyNIaU3ksg3YsOGtQ2gIL4qdAZ/view)
 
 ---
 
@@ -52,8 +51,7 @@ Xác nhận **mã vé hợp lệ** và biết khách **ngồi ở khu vực nào
 **Bước 4:** Dùng máy quét quét mã QR  
 → Khoảng cách **nửa gang tay** là tối ưu.
 
-📽 **Video hướng dẫn:**  
-[https://drive.google.com/file/d/1leGwm7e1lfiFtL6s55eHnvTwGZogXCZl/view](https://drive.google.com/file/d/1leGwm7e1lfiFtL6s55eHnvTwGZogXCZl/view)
+[>>📽Video hướng dẫn<<](https://drive.google.com/file/d/1leGwm7e1lfiFtL6s55eHnvTwGZogXCZl/view)
 
 ---
 
@@ -63,8 +61,7 @@ Xác nhận **mã vé hợp lệ** và biết khách **ngồi ở khu vực nào
 **Bước 3:** **Cấp quyền** sử dụng Camera  
 **Bước 4:** Quét mã QR (khoảng cách **nửa gang tay** là tối ưu)
 
-📽 **Video hướng dẫn:**  
-[https://drive.google.com/file/d/1Tb2FiW2ZiD9Ge1pegY9gD31Fksi02Cjf/view](https://drive.google.com/file/d/1Tb2FiW2ZiD9Ge1pegY9gD31Fksi02Cjf/view)
+[>>📽Video hướng dẫn<<](https://drive.google.com/file/d/1Tb2FiW2ZiD9Ge1pegY9gD31Fksi02Cjf/view)
 
 ---
 
@@ -83,19 +80,19 @@ Nếu **không có nút Checkin**, khách có thể đã checkin rồi.
 ## 🔗 Các Đường Link Hỗ Trợ Nhanh
 
 - 🔐 **Link đăng nhập nếu đã từng đăng ký:**  
-  👉 https://mc-fest.com/festival-login
+  👉 [https://mc-fest.com/festival-login](https://mc-fest.com/festival-login)
 
 - 🛵 **Link đăng ký kiểm tra xe:**  
-  👉 https://mc-fest.com/motor-check-register
+  👉 [https://mc-fest.com/motor-check-register](https://mc-fest.com/motor-check-register)
 
 - 🎫 **Link đăng ký vé ca nhạc:**  
-  👉 https://mc-fest.com/concert-register
+  👉 [https://mc-fest.com/concert-register](https://mc-fest.com/concert-register)
 
 - 🛠 **Link đăng nhập cho hỗ trợ kiểm tra xe & checkin vé:**  
-  👉 https://mc-fest.com/signin
+  👉 [https://mc-fest.com/signin](https://mc-fest.com/signin)
 
 - 🎥 **Thư mục chứa video hướng dẫn:**  
-  👉 [Xem tại đây](https://drive.google.com/drive/folders/1tVKL-DvemB7RZQBk0iNh2FzU9JiEksq8?usp=drive_link)
+  👉 [>>Xem tại đây<<](https://drive.google.com/drive/folders/1tVKL-DvemB7RZQBk0iNh2FzU9JiEksq8?usp=drive_link)
 
 ---
 
